@@ -1,0 +1,8 @@
+Resources\Base.class
+Pageobjects\Rooms.class
+Resources\ExtentReporterNG.class
+Resources\Generic.class
+Pageobjects\Buildings.class
+Pageobjects\D42Login.class
+Pageobjects\Racks.class
+Pageobjects\Dashboard.class

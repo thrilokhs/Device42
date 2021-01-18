@@ -1,0 +1,26 @@
+# Focus area – D42 - DataCenter – Object Creation
+
+PRE REQUISITE:
+1.	Java 8
+2.	Selenium Webdriver
+3.	Chrome/ IE/Firefox browser
+4.	Eclipse or any Java support editor
+5.	TestNG
+6.	Maven
+
+Data features available:
+•	Login and Loguout from the application
+•	Creating Building
+•	Creating Room
+•	Creating Rack
+
+FRAMEWORK DESIGN:
+-Pageobjects - Contains reusable webelements for different pages. Landing/Dashboard page has dynamic page oject creation mechanism 
+-Resources - Contains Common files which are used and referred by the Test files during the course of execution
+		   - Also contains the webdrivers which will be automatically invoked during the course of execution
+		   
+-Test Package - Contains the Testexecution file with the test cases implemented using TestNG annotations
+			  - Listers is used to invoke the reporting status at the corresponding stage of each test execution
+			  
+-Reports - Contains the report generated after the test execution			  		   
+

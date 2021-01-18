@@ -1,0 +1,7 @@
+15:15:47.833 [main] INFO  Resources.Base - Driver is initialized
+15:15:56.449 [main] INFO  Resources.Base - Building is created and saved
+16:12:24.736 [main] INFO  Resources.Base - Driver is initialized
+16:12:34.402 [main] INFO  Resources.Base - Building is created and saved
+16:12:45.390 [main] FATAL Resources.Base - Room is created and it is a test fatal message
+16:12:54.626 [main] ERROR Resources.Base - Room is created and it is a test error message
+16:27:42.745 [main] FATAL Resources.Base - Room is created and it is a test fatal message
